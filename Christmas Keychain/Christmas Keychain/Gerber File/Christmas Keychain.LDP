@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Casper\Desktop\Altium Projects\Christmas Keychain\Christmas Keychain\Christmas Keychain.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=christmas keychain-roundholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=christmas keychain-slotholes-plated.txt|DrillLayers=gtl,gbl

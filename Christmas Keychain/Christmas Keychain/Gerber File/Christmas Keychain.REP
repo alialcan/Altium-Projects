@@ -1,0 +1,248 @@
+*************************************************************
+FileName = Christmas Keychain.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 5
+      File : Christmas Keychain.GM5
+
+    Adding Layer      : Mechanical 5
+
+
+Used DCodes :
+    D11
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 3
+      File : Christmas Keychain.GM3
+
+    Adding Layer      : Mechanical 3
+
+
+Used DCodes :
+    D11
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Christmas Keychain.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D11
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Christmas Keychain.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Christmas Keychain.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Christmas Keychain.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D26
+    D27
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Christmas Keychain.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Christmas Keychain.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Christmas Keychain.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Christmas Keychain.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Christmas Keychain.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Christmas Keychain.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Christmas Keychain.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Christmas Keychain.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Christmas Keychain.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : Christmas Keychain.GM
+
+
+Used DCodes :
+    D35
+*************************************************************
+

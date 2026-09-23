@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Christmas Keychain.PrjPcb]
+   Generated File[Christmas Keychain-RoundHoles-Plated.TXT]
+   Generated File[Christmas Keychain-SlotHoles-Plated.TXT]
+   Generated File[Christmas Keychain.LDP]
+   Generated File[Christmas Keychain.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 14:42:22 On 17.09.2026
